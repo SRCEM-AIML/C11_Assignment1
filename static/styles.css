@@ -1,0 +1,18 @@
+body {
+    background-color: #61e2d7; /* Light grey background */
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+p.lead {
+    font-size: 1.25rem;
+    color: #6c757d; /* Bootstrap's secondary text color */
+}
+
+.btn-success {
+    font-size: 1.25rem;
+    padding: 10px 20px;
+}
